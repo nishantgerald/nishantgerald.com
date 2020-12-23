@@ -1,2 +1,2 @@
 # This is my website
-## - Number of issues created: 1
+## - Number of issues created: 2
