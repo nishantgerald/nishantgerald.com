@@ -102,16 +102,20 @@
               <small class="date">2020 - Present</small>
               <h3 class="h5 date-title">Bioinformatics Engineer - <a href="https://www.gdit.com/" title="GDIT">General Dynamics IT</a></h3>
               <ul>
-                <li>Trained and conducted seminars for over 1500 users at the CDC on topics related to Data Science in Python</li>
-                <li>Managed Helpdesk Ticketing System - triaged tickets, troubleshooted linux, HPC and bioinformatics related issues with the client </li>
+                <li><b>Linux Systems Administration:</b> Troubleshot basic infrastructure-level issues including service management, LDAP user-onboarding, SMB ACL group controls and data migrations for 100+ centOS based machines</li>
+                <li><b>HPC Cluster Administration:</b> Helped users at CDC customize submissions scripts to optimize job performance on a cluster with over 120+ nodes using a UGE scheduler</li> 
+                <li><b>Technical Instructor:</b> Trained and conducted seminars for over 1500 users at the CDC on topics related to Data Science in Python</li>
+                <li><b>Helpdesk Management:</b> Managed Helpdesk Ticketing System - triaged tickets, troubleshooted linux, HPC and bioinformatics related issues with the client </li>
               </ul>
             </div>
 
             <div class="work-experience">
-              <small class="date">2017-2015</small>
-              <h3 class="h5 date-title">Web developer - <a href="http://mashup-template.com" title="">Mashup Template</a></h3>
-              
-              <p>Fermentum leo vel orci porta non. Posuere sollicitudin aliquam ultrices sagittis. Aliquam faucibus purus in massa tempor nec.</p>
+              <small class="date">May 2019 - August 2019</small>
+              <h3 class="h5 date-title">Genomics Data Scientist - <a href="https://www.ancestry.com/" title="">Ancestry.com LLC</a></h3>
+              <ul>
+                <li><b>Copy Number Variant (CNV) Detection Pipeline:</b> Developed a CNV Detection Pipeline which was tested on over 15 million customer DNA samples and benchmarked it against 5 other open-source pipelines</li>
+                <li><b>Helpdesk Management:</b> Created a QC Tracking tool to visualize and summarize incoming Next-Gen Sequencing QC data to easily identify faulty samples and reduce rerun costs</li>
+              </ul>
             </div>
           </div>
         </div>
