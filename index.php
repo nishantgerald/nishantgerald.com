@@ -146,7 +146,7 @@
         
         <div class="card">
           <div class="card-block">
-            <h2>Projects</h2>
+            <h2>My photos</h2>
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             
 
