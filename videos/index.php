@@ -22,17 +22,17 @@
   
   <!-- NAV BAR -->
   <div class="topnav">
-    <a class="active" href="https://nishantgerald.com">Home</a>
+    <a class="active" href="/">Home</a>
     <a href="#intro">Intro</a>
     <a href="#contact">Contact</a>
     <a href="#work">Work</a>
-    <a href="https://nishantgerald.com/videos">Videos</a>
+    <a href="/videos">Videos</a>
   </div>
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
   <link href="/assets/images/favicon.ico" rel="icon">
-  <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png"/>
+  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png"/>
   <title>Nishant Gerald</title>  
 
 <link href="/assets/css/main.d8e0d294.css" rel="stylesheet"></head>
@@ -42,7 +42,7 @@
 <main class="content-wrapper">
   <header class="white-text-container section-container">
     <div class="text-center">
-      <h1><a href="https://nishantgerald.com" style="text-decoration : none">Nishant Gerald</a></h1>
+      <h1><a href="/" style="text-decoration : none">Nishant Gerald</a></h1>
       <p>Full-time Bioinformatics Engineer; Part-time small-talker</p>
       <p>
         <a class="fa-icon fa-icon-2x" href="https://www.facebook.com/nishant.gerald/" title="">
