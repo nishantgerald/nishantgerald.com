@@ -21,29 +21,29 @@
   </script>
   <!-- NAV BAR -->
   <div class="topnav">
-    <a class="active" href="https://nishantgerald.com">Home</a>
+    <a class="active" href="/">Home</a>
     <a href="#intro">Intro</a>
     <a href="#contact">Contact</a>
     <a href="#work">Work</a>
-    <a href="https://nishantgerald.com/videos">Videos</a>
+    <a href="/videos/index.php">Videos</a>
   </div>
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
-  <link href="./assets/images/favicon.ico" rel="icon">
-  <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png"/>
+  <link href="/assets/images/favicon.ico" rel="icon">
+  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png"/>
   <title>Nishant Gerald</title>  
 
-  <link href="./assets/css/main.d8e0d294.css" rel="stylesheet">
+  <link href="/assets/css/main.d8e0d294.css" rel="stylesheet">
 </head>
 
-  <embed name="background-music" src="assets/audio/blue.mp3" loop="true" autostart="true" hidden="true">
+  <embed name="background-music" src="/assets/audio/blue.mp3" loop="true" autostart="true" hidden="true">
 <!-- Add your content of header -->
-<!-- <div class="background-color-layer" style="background-image: url('assets/images/img-01.jpg')"></div> -->
+<!-- <div class="background-color-layer" style="background-image: url('/assets/images/img-01.jpg')"></div> -->
 <main class="content-wrapper">
   <header class="white-text-container section-container">
     <div class="text-center">
-      <h1><a href="https://nishantgerald.com" style="text-decoration : none">Nishant Gerald</a></h1>
+      <h1><a href="/" style="text-decoration : none">Nishant Gerald</a></h1>
       <p>Full-time Bioinformatics Engineer; Part-time small-talker</p>
       <p>
           <a class="fa-icon fa-icon-2x" href="https://www.facebook.com/nishant.gerald/" title="">
@@ -75,7 +75,7 @@
             <h2>About me</h2>
             <div class="row">
               <div class="col-md-4">
-                <p><img src="./assets/images/IMG_2673.jpg" class="img-responsive" alt=""></p>
+                <p><img src="/assets/images/IMG_2673.jpg" class="img-responsive" alt=""></p>
               </div>
               <div class="col-md-8">
 
@@ -153,20 +153,20 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="./assets/images/IMG_1511.jpg" class="img-responsive" alt="...">
+                <img src="/assets/images/IMG_1511.jpg" class="img-responsive" alt="...">
                 <div class="carousel-caption">
                   <h3 class="h5">Just float!</h3>
                 </div>
               </div>
               <div class="item">
-                <img src="./assets/images/IMG_1555.jpg" class="img-responsive" alt="...">
+                <img src="/assets/images/IMG_1555.jpg" class="img-responsive" alt="...">
                 <div class="carousel-caption">  
                   <h3 class="h5">Sand dunes</h3>
                 </div>
               </div>
 
               <div class="item">
-                <img src="./assets/images/IMG_1236.jpg" class="img-responsive" alt="...">
+                <img src="/assets/images/IMG_1236.jpg" class="img-responsive" alt="...">
                 <div class="carousel-caption">
                   <h3 class="h5">Day at the Park</h3>
                 </div>
@@ -256,7 +256,7 @@
     <div class="row">
       <div class="col-xs-12">
         <p>
-          <p><img src="assets/images/favicon.ico" alt=""></p>
+          <p><img src="/assets/images/favicon.ico" alt=""></p>
         
           <p>
             ©2020 Nishant Gerald. All rights reserved.
@@ -300,6 +300,6 @@
   ga('send', 'pageview');
 </script>
 
-<script type="text/javascript" src="./assets/js/main.bc58148c.js"></script></body>
+<script type="text/javascript" src="/assets/js/main.bc58148c.js"></script></body>
 
 </html>
