@@ -79,8 +79,8 @@
               </div>
               <div class="col-md-8">
 
-              <p>My name is Nishant and I am a Bioinformatics Engineer at the Centers for Disease Control and Prevention - Roybal Campus.</p>
-              <p>You can find some of the things I'm passionate about on this page - from Public Health Dashboards to Videos to Liverpool FC</p>
+              <p>My name is Nishant and I am a Bioinformatics Engineer at <a href="https://www.gdit.com/">General Dynamics Information Technology</a> supporting the <a href="http://cdc.gov/">Centers for Disease Control and Prevention's (CDC)</a> Scientific Computing and Bioinformatics Support team</p>
+              <p>You can find some of the things I'm passionate about on this page - from <a href="#covid">Public Health Dashboards</a> to <a href="/videos">Videos</a> to <a href="#liverpool-calendar">Liverpool FC</a></p>
               <p>Current Hobbies:</p>
               <ul>
                 <li>Hiking</li>
@@ -215,7 +215,7 @@
         </div>
         
         <!-- LIVERPOOL CALENDAR -->
-        <div class="card">
+        <div class="card" id="liverpool-calendar">
           <div class="card-block">
             <div class="video-container">
             <h2>Liverpool Gameday Calendar</h2>
@@ -226,7 +226,7 @@
        
 
         <!-- COVID-19 DASHBOARD -->
-        <div class="card">
+        <div class="card" id="covid">
           <div class="card-block">
             <div class="video-container">
             <h2>COVID Dashboard</h2>
@@ -256,7 +256,7 @@
     <div class="row">
       <div class="col-xs-12">
         <p>
-          <a href="/"><img src="/assets/images/favicon.ico" alt=""></a>
+          <p><img src="/assets/images/favicon.ico" alt=""></p>
         
           <p>
             ©2020 Nishant Gerald. All rights reserved.
