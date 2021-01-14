@@ -90,7 +90,7 @@
     <div class="row">
       <div class="col-xs-12">
         <p>
-          <p><img src="/assets/images/favicon.ico" alt=""></p>
+          <a href="/"><img src="/assets/images/favicon.ico" alt=""></a>
         
           <p>
             ©2020 Nishant Gerald. All rights reserved.
