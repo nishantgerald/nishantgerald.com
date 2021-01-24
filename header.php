@@ -35,13 +35,15 @@
   <title>Nishant Gerald</title>  
 
   <link href="/assets/css/main.d8e0d294.css" rel="stylesheet">
-</head>
+
+  
 
 <script>
   document.addEventListener("DOMContentLoaded", function (event) {
      scrollRevelation('.card');
   });
 </script>
+
 
 <!-- Google Analytics -->
 
@@ -56,6 +58,6 @@
   ga('send', 'pageview');
 </script>
 
-<script type="text/javascript" src="/assets/js/main.bc58148c.js"></script>
+<script type="text/javascript" src="/assets/js/main.bc58148c.js"></script></body>
 
-</html>
+</head>
