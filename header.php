@@ -21,10 +21,7 @@
   </script>
   <!-- NAV BAR -->
   <div class="topnav">
-    <a class="active" href="/">Home</a>
-    <a href="#intro">Intro</a>
-    <a href="#contact">Contact</a>
-    <a href="#work">Work</a>
+    <a href="/">Home</a>
     <a href="/videos">Videos</a>
     <a href="/monitor">Monitor</a>
   </div>

@@ -3,7 +3,9 @@
     <div class="row">
       <div class="col-xs-12">
         <p>
+        <a href="/">
           <p><img src="/assets/images/favicon.ico" alt=""></p>
+        </a>
         
           <p>
             ©2021 Nishant Gerald. All rights reserved.
