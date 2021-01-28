@@ -8,7 +8,7 @@
   <meta content="description" name="description">
   <meta name="google" content="notranslate" />
   <meta content="Mashup templates have been developped by Orson.io team" name="author">
-
+  <title>Nishant Gerald</title>  
   <!-- Adding Google Analytics Global Site Tag-->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179118177-1"></script>
@@ -25,14 +25,15 @@
     <a href="#intro">Intro</a>
     <a href="#contact">Contact</a>
     <a href="#work">Work</a>
-    <a href="/videos/index.php">Videos</a>
+    <a href="/videos">Videos</a>
+    <a href="/monitor">Monitor</a>
   </div>
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
   <link href="/assets/images/favicon.ico" rel="icon">
   <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png"/>
-  <title>Nishant Gerald</title>  
+  
 
   <link href="/assets/css/main.d8e0d294.css" rel="stylesheet">
 

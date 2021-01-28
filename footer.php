@@ -6,7 +6,7 @@
           <p><img src="/assets/images/favicon.ico" alt=""></p>
         
           <p>
-            ©2020 Nishant Gerald. All rights reserved.
+            ©2021 Nishant Gerald. All rights reserved.
           </p>
         <p>
           <a class="fa-icon fa-icon-2x" href="https://www.facebook.com/nishant.gerald/" title="">
