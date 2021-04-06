@@ -5,9 +5,6 @@
   <meta charset="UTF-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width,initial-scale=1" name="viewport">
-  <meta content="description" name="description">
-  <meta name="google" content="notranslate" />
-  <meta content="Mashup templates have been developped by Orson.io team" name="author">
   <title>Nishant Gerald</title>  
   <!-- Adding Google Analytics Global Site Tag-->
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -22,7 +19,8 @@
   <!-- NAV BAR -->
   <div class="topnav">
     <a href="/">Home</a>
-    <a href="/videos">Videos</a>
+    <a href="/assets/ngerald_resume.pdf" target="_blank">Resume</a>
+    <a href="/zenphoto/index.php?p=gallery" target="_blank">Photos</a>
     <a href="/monitor">Monitor</a>
   </div>
 
